@@ -1,6 +1,12 @@
 # 💫 About Me:
 Machine learning enthusiast with a growing focus on building scalable, well-designed backend systems.<br>Fun fact about me? Fantasy Novels are my cozy space.
 
+# 🚀 Tech Stack: 
+- Languages: Python, Java, Javascript, C/C++, Go
+- Frameworks & Libraries: Django, Flask, FastAPI, Selenium, Playwright, MediaPipe
+- Tools & Platforms: Docker, Kubernetes, Redis, Celery, PostgreSQL
+- Practices: CI/CD, GitHub Actions
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Aditi0522&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=true)<br/>
