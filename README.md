@@ -2,8 +2,8 @@
 Machine learning enthusiast with a growing focus on building scalable, well-designed backend systems.<br>Fun fact about me? Fantasy Novels are my cozy space.
 
 # 🚀 Tech Stack: 
-- Languages: Python, Java, Javascript, C/C++, Go
-- Frameworks & Libraries: Django, Flask, FastAPI, Selenium, Playwright, MediaPipe
+- Languages: Python, Java, Javascript, C/C++, Go, Rust
+- Frameworks & Libraries: Django, Flask, FastAPI, Selenium, Playwright, MediaPipe, Iced-Rs
 - Tools & Platforms: Docker, Kubernetes, Redis, Celery, PostgreSQL
 - Practices: CI/CD, GitHub Actions
 
